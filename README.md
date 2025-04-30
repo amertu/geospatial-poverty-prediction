@@ -21,55 +21,55 @@ This project focuses on analyzing and predicting patterns of extreme poverty usi
 
 ## System Architecture
 ```markdown
-                                        +--------------------------+
-                                        |   Data Sources           |
-                                        |--------------------------|
-                                        | - World Bank             |
-                                        | - UNDP                   |
-                                        | - Geospatial Datasets    |
-                                        +-----------+--------------+
-                                                    |
-                                                    v
-                                        +--------------------------+
-                                        | Data Cleaning &          |
-                                        | Preprocessing            |
-                                        | (Python, Pandas, etc.)   |
-                                        +-----------+--------------+
-                                                    |
-                                                    v
-                                        +--------------------------+
-                                        | Feature Engineering       |
-                                        | (Geo & Socio-Econ. Data)  |
-                                        +-----------+--------------+
-                                                    |
-                                                    v
-                                        +--------------------------+
-                                        | ML Modeling              |
-                                        | - Train Models           |
-                                        | - Evaluate Accuracy      |
-                                        +-----------+--------------+
-                                                    |
-                                                    v
-                                        +--------------------------+
-                                        | Prediction Engine        |
-                                        | - Identify High-Risk     |
-                                        |   Countries              |
-                                        +-----------+--------------+
-                                                    |
-                                                    v
-                                        +--------------------------+
-                                        | Strategic Insights       |
-                                        | - Recommend Interventions|
-                                        | - Suggest Escape Routes  |
-                                        +-----------+--------------+
-                                                    |
-                                                    v
-                                        +--------------------------+
-                                        | Decision Support         |
-                                        | - NGOs                   |
-                                        | - Policymakers           |
-                                        | - Development Agencies   |
-                                        +--------------------------+
+                                    +--------------------------+
+                                    |   Data Sources           |
+                                    |--------------------------|
+                                    | - World Bank             |
+                                    | - UNDP                   |
+                                    | - Geospatial Datasets    |
+                                    +-----------+--------------+
+                                                |
+                                                v
+                                    +--------------------------+
+                                    | Data Cleaning &          |
+                                    | Preprocessing            |
+                                    | (Python, Pandas, etc.)   |
+                                    +-----------+--------------+
+                                                |
+                                                v
+                                    +--------------------------+
+                                    | Feature Engineering       |
+                                    | (Geo & Socio-Econ. Data)  |
+                                    +-----------+--------------+
+                                                |
+                                                v
+                                    +--------------------------+
+                                    | ML Modeling              |
+                                    | - Train Models           |
+                                    | - Evaluate Accuracy      |
+                                    +-----------+--------------+
+                                                |
+                                                v
+                                    +--------------------------+
+                                    | Prediction Engine        |
+                                    | - Identify High-Risk     |
+                                    |   Countries              |
+                                    +-----------+--------------+
+                                                |
+                                                v
+                                    +--------------------------+
+                                    | Strategic Insights       |
+                                    | - Recommend Interventions|
+                                    | - Suggest Escape Routes  |
+                                    +-----------+--------------+
+                                                |
+                                                v
+                                    +--------------------------+
+                                    | Decision Support         |
+                                    | - NGOs                   |
+                                    | - Policymakers           |
+                                    | - Development Agencies   |
+                                    +--------------------------+
 ```
 
 ## Business Impact
