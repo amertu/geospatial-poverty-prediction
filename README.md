@@ -1,4 +1,4 @@
-# Geospatial Poverty Analysis
+# ML-Based Global Poverty Risk Modeling
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%E2%9C%94-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2.49.0-f05133?logo=git&logoColor=white)
