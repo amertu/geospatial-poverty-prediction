@@ -1,5 +1,5 @@
 # ML-Based Global Poverty Risk Modeling
-![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%E2%9C%94-F37626?logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4.2-orange)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3.3.5-green)
@@ -20,7 +20,7 @@ This project focuses on analyzing and predicting patterns of extreme poverty usi
 
 - **Machine Learning Modeling**: Developed predictive models using Python to analyze the impact of various factors on extreme poverty.
 - **Geospatial Data Integration**: Combined spatial and socio-economic data to provide a comprehensive view of poverty distribution.
-- **Data-Driven Insights**: Delivered insights to support policy-making and strategic planning for poverty reduction.
+- **Data-Driven Insights**: Delivered insights to support policymaking and strategic planning for poverty reduction.
 
 ## System Architecture
 ```markdown
