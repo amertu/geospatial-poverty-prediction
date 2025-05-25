@@ -1,6 +1,9 @@
 # ML-Based Global Poverty Risk Modeling
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%E2%9C%94-F37626?logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4.2-orange)
+![LightGBM](https://img.shields.io/badge/LightGBM-3.3.5-green)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0.14.2-lightgrey)
 ![Git](https://img.shields.io/badge/Git-2.49.0-f05133?logo=git&logoColor=white)
 
 ## Project Overview
