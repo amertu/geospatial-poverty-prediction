@@ -1,5 +1,5 @@
 # ML-Based Global Poverty Risk Modeling
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%E2%9C%94-F37626?logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4.2-orange)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3.3.5-green)
