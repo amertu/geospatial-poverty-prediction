@@ -74,10 +74,3 @@ This project focuses on analyzing and predicting patterns of extreme poverty usi
                                     | - Development Agencies   |
                                     +--------------------------+
 ```
-
-## Business Impact
-
-- Generated actionable insights that informed targeted intervention strategies.
-- Contributed to more effective poverty reduction initiatives, particularly in developing nations.
-- Enabled stakeholders to make evidence-based decisions for allocating resources and formulating policies.
-
