@@ -1,10 +1,17 @@
 # ML-Based Global Poverty Risk Modeling
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%E2%9C%94-F37626?logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.x-150458?logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0.14.2-lightgrey)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4.2-orange)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3.3.5-green)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-0.14.2-lightgrey)
-![Git](https://img.shields.io/badge/Git-2.49.0-f05133?logo=git&logoColor=white)
+![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-ROS-E67E22)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?logo=plotly&logoColor=white)
+![World Bank Data](https://img.shields.io/badge/World%20Bank-Data%20API-0071BC)
+![Git](https://img.shields.io/badge/Git-2.49.0-F05032?logo=git&logoColor=white)
 
 ## Project Overview
 
